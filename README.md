@@ -1,7 +1,7 @@
-git clone https://github.com/DrAlixan/Alixsec-DDoS
-cd Alixsec-DDoS
+git clone https://github.com/MR-HIFZU/SYNC-DoS.git
+cd SYNC-DoS
 pip -r install requirements.txt
 
 ( if not didn't work install manually)
 
-python3 alixsec-DDoS.py -h
+python3 SYNC.py -hhttps://github.com/MR-HIFZU/SYNC-DoS.git

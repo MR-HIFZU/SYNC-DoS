@@ -4,4 +4,4 @@ pip -r install requirements.txt
 
 ( if not didn't work install manually)
 
-python3 SYNC.py -hhttps://github.com/MR-HIFZU/SYNC-DoS.git
+__python3 SYNC.py__

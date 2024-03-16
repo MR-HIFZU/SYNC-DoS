@@ -1,13 +1,13 @@
-__$git clone https://github.com/MR-HIFZU/SYNC-DoS.git__
+*git clone https://github.com/MR-HIFZU/SYNC-DoS.git*
 
 
 
-__$cd SYNC-DoS__
+*cd SYNC-DoS*
 
 
 
-__$pip -r install requirements.txt__
+*pip -r install requirements.txt*
 
 ( if not didn't work install manually)
 
-__$python3 SYNC.py__
+*$python3 SYNC.py*
